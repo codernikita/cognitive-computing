@@ -1,1 +1,1 @@
-# cognitive-computing
+# cognitive-computing assignment solution
